@@ -1,6 +1,6 @@
 # Background Generator
 
 ### Background Generator Exercise from the Udemy course by Andrei Neagoie 
-#### (https://www.udemy.com/the-complete-web-developer-zero-to-mastery)
+#### Click [Here](https://chansookim316.github.io/background-generator/) to check out the page
 <br></br>
 ![](./usage.jpg)
